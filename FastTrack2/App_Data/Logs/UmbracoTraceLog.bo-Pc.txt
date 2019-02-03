@@ -1,0 +1,106 @@
+﻿ 2019-02-03 17:04:07,871 [P6572/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.13.1 application starting on BO-PC
+ 2019-02-03 17:04:07,894 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2019-02-03 17:04:07,903 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 8ms)
+ 2019-02-03 17:04:07,961 [P6572/D2/T1] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2019-02-03 17:04:07,962 [P6572/D2/T1] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2019-02-03 17:04:07,965 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2019-02-03 17:04:09,639 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1674ms)
+ 2019-02-03 17:04:09,639 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IApplicationStartupHandler
+ 2019-02-03 17:04:09,641 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IApplicationStartupHandler (took 1ms)
+ 2019-02-03 17:04:09,690 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2019-02-03 17:04:09,690 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2019-02-03 17:04:09,690 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2019-02-03 17:04:09,691 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter (took 0ms)
+ 2019-02-03 17:04:09,691 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2019-02-03 17:04:09,691 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2019-02-03 17:04:09,692 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2019-02-03 17:04:09,693 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyValueConverter (took 1ms)
+ 2019-02-03 17:04:09,706 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2019-02-03 17:04:09,706 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2019-02-03 17:04:09,706 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Mvc.SurfaceController
+ 2019-02-03 17:04:09,707 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Mvc.SurfaceController (took 0ms)
+ 2019-02-03 17:04:09,707 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2019-02-03 17:04:09,708 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2019-02-03 17:04:09,708 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.WebApi.UmbracoApiController
+ 2019-02-03 17:04:09,709 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.WebApi.UmbracoApiController (took 0ms)
+ 2019-02-03 17:04:10,993 [P6572/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2019-02-03 17:04:11,162 [P6572/D2/T1] INFO  Merchello.Web.UmbracoApplicationEventHandler - Attempting to initialize Merchello
+ 2019-02-03 17:04:11,187 [P6572/D2/T1] INFO  Merchello.Web.WebBootManager - Verifying Merchello Database is present.
+ 2019-02-03 17:04:11,639 [P6572/D2/T1] INFO  Merchello.Core.CoreBootManager - Initializing Merchello GatewayResolver
+ 2019-02-03 17:04:11,640 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving [Merchello.Core.Gateways.GatewayProviderActivationAttribute]Merchello.Core.Gateways.GatewayProviderBase
+ 2019-02-03 17:04:11,642 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved [Merchello.Core.Gateways.GatewayProviderActivationAttribute]Merchello.Core.Gateways.GatewayProviderBase (took 1ms)
+ 2019-02-03 17:04:11,680 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving [Merchello.Core.Observation.TriggerForAttribute]Merchello.Core.Observation.ITrigger
+ 2019-02-03 17:04:11,682 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved [Merchello.Core.Observation.TriggerForAttribute]Merchello.Core.Observation.ITrigger (took 1ms)
+ 2019-02-03 17:04:11,688 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving [Merchello.Core.Observation.MonitorForAttribute]Merchello.Core.Observation.IMonitor
+ 2019-02-03 17:04:11,689 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved [Merchello.Core.Observation.MonitorForAttribute]Merchello.Core.Observation.IMonitor (took 1ms)
+ 2019-02-03 17:04:11,693 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving [Merchello.Core.Chains.OfferConstraints.OfferConstraintChainForAttribute]Merchello.Core.Chains.OfferConstraints.IOfferProcessor
+ 2019-02-03 17:04:11,694 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved [Merchello.Core.Chains.OfferConstraints.OfferConstraintChainForAttribute]Merchello.Core.Chains.OfferConstraints.IOfferProcessor (took 0ms)
+ 2019-02-03 17:04:11,694 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Merchello.Web.Mvc.IPaymentMethodUiController
+ 2019-02-03 17:04:11,695 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Merchello.Web.Mvc.IPaymentMethodUiController (took 0ms)
+ 2019-02-03 17:04:11,698 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2019-02-03 17:04:11,698 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2019-02-03 17:04:11,698 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Merchello.Web.Reporting.ReportController
+ 2019-02-03 17:04:11,698 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Merchello.Web.Reporting.ReportController (took 0ms)
+ 2019-02-03 17:04:11,699 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving [Merchello.Web.Trees.BackOfficeTreeAttribute]Merchello.Core.Marketing.Offer.IOfferProvider
+ 2019-02-03 17:04:11,700 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved [Merchello.Web.Trees.BackOfficeTreeAttribute]Merchello.Core.Marketing.Offer.IOfferProvider (took 1ms)
+ 2019-02-03 17:04:11,702 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving [Merchello.Core.Marketing.Offer.OfferComponentAttribute]Merchello.Core.Marketing.Offer.OfferComponentBase
+ 2019-02-03 17:04:11,703 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved [Merchello.Core.Marketing.Offer.OfferComponentAttribute]Merchello.Core.Marketing.Offer.OfferComponentBase (took 1ms)
+ 2019-02-03 17:04:11,708 [P6572/D2/T1] INFO  Merchello.Core.CoreBootManager - Initializing EntityCollectionProviders
+ 2019-02-03 17:04:11,709 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving [Merchello.Core.EntityCollections.EntityCollectionProviderAttribute]Merchello.Core.EntityCollections.IEntityCollectionProvider
+ 2019-02-03 17:04:11,711 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved [Merchello.Core.EntityCollections.EntityCollectionProviderAttribute]Merchello.Core.EntityCollections.IEntityCollectionProvider (took 1ms)
+ 2019-02-03 17:04:12,081 [P6572/D2/T1] INFO  Merchello.Web.UmbracoApplicationEventHandler - Initialization of Merchello complete
+ 2019-02-03 17:04:12,156 [P6572/D2/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2019-02-03 17:04:12,366 [P6572/D2/T1] INFO  Merchello.Core.Gateways.GatewayEvents - Initializing Merchello Warehouse Catalog binding events
+ 2019-02-03 17:04:12,367 [P6572/D2/T1] INFO  Merchello.Core.Gateways.Notification.Monitors.NotificationMonitorEvents - Initializing Merchello NotificationMonitor binding events
+ 2019-02-03 17:04:12,367 [P6572/D2/T1] INFO  Merchello.Core.Gateways.Notification.Monitors.NotificationMonitorEvents - Completed Merchello NotificationMonitor binding events
+ 2019-02-03 17:04:12,368 [P6572/D2/T1] INFO  Merchello.Core.Gateways.Notification.Smtp.SmtpProviderEvents - Initializing SMTP notification gateway provider registration binding events
+ 2019-02-03 17:04:12,417 [P6572/D2/T1] INFO  Merchello.Web.Search.ExamineEvents - Initializing Merchello ProductIndex binding events
+ 2019-02-03 17:04:12,421 [P6572/D2/T1] INFO  Merchello.Web.Trees.ServerVariablesParsingEvents - Initializing Merchello ServerVariablesParsingEvents
+ 2019-02-03 17:04:12,424 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving [Merchello.Core.ValueConverters.ValueCorrections.DetachedValueCorrectionAttribute]Merchello.Core.ValueConverters.ValueCorrections.DetachedValueCorrectionBase
+ 2019-02-03 17:04:12,424 [P6572/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved [Merchello.Core.ValueConverters.ValueCorrections.DetachedValueCorrectionAttribute]Merchello.Core.ValueConverters.ValueCorrections.DetachedValueCorrectionBase (took 0ms)
+ 2019-02-03 17:04:12,431 [P6572/D2/T1] INFO  Merchello.Core.CoreBootManager - Starting subscribing Monitors to Triggers
+ 2019-02-03 17:04:12,432 [P6572/D2/T1] INFO  Merchello.Core.Observation.MonitorBase`1[[Merchello.Core.Models.MonitorModels.IShipmentResultNotifyModel, Merchello.Core, Version=2.7.6876.21825, Culture=neutral, PublicKeyToken=null]] - RazorPartialOrderShippedMonitor subscribing to PartialOrderShippedTrigger
+ 2019-02-03 17:04:12,433 [P6572/D2/T1] INFO  Merchello.Core.Observation.MonitorBase`1[[Merchello.Core.Models.MonitorModels.IPaymentResultMonitorModel, Merchello.Core, Version=2.7.6876.21825, Culture=neutral, PublicKeyToken=null]] - RazorOrderConfirmationMonitor subscribing to OrderConfirmationTrigger
+ 2019-02-03 17:04:12,434 [P6572/D2/T1] INFO  Merchello.Core.Observation.MonitorBase`1[[Merchello.Core.Models.MonitorModels.IShipmentResultNotifyModel, Merchello.Core, Version=2.7.6876.21825, Culture=neutral, PublicKeyToken=null]] - RazorOrderShippedMonitor subscribing to OrderShippedTrigger
+ 2019-02-03 17:04:12,434 [P6572/D2/T1] INFO  Merchello.Core.Observation.MonitorBase`1[[Merchello.Core.Models.MonitorModels.IShipmentResultNotifyModel, Merchello.Core, Version=2.7.6876.21825, Culture=neutral, PublicKeyToken=null]] - PartialOrderShippedMonitor subscribing to PartialOrderShippedTrigger
+ 2019-02-03 17:04:12,434 [P6572/D2/T1] INFO  Merchello.Core.Observation.MonitorBase`1[[Merchello.Core.Models.MonitorModels.IPaymentResultMonitorModel, Merchello.Core, Version=2.7.6876.21825, Culture=neutral, PublicKeyToken=null]] - OrderConfirmationMonitor subscribing to OrderConfirmationTrigger
+ 2019-02-03 17:04:12,435 [P6572/D2/T1] INFO  Merchello.Core.Observation.MonitorBase`1[[Merchello.Core.Models.MonitorModels.IShipmentResultNotifyModel, Merchello.Core, Version=2.7.6876.21825, Culture=neutral, PublicKeyToken=null]] - OrderShippedMonitor subscribing to OrderShippedTrigger
+ 2019-02-03 17:04:12,435 [P6572/D2/T1] INFO  Umbraco.Core.CoreBootManager - Finished subscribing Monitors to Triggers
+ 2019-02-03 17:04:12,436 [P6572/D2/T1] INFO  Merchello.Web.UmbracoApplicationEventHandler - Initializing Customer related events
+ 2019-02-03 17:04:12,439 [P6572/D2/T1] INFO  Merchello.Web.UmbracoApplicationEventHandler - Verifying Merchello Version.
+ 2019-02-03 17:04:13,330 [P6572/D2/T1] INFO  Merchello.Providers.UmbracoApplicationEvents - Initializing BrainTree Payment provider events
+ 2019-02-03 17:04:13,352 [P6572/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2019-02-03 17:04:13,352 [P6572/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2019-02-03 17:04:13,365 [P6572/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 5584ms)
+ 2019-02-03 17:04:13,372 [P6572/D2/T1] INFO  Umbraco.Web.ExamineStartup - Forcing index MerchelloCustomerIndexSet to be unlocked since it was left in a locked state
+ 2019-02-03 17:04:13,374 [P6572/D2/T1] INFO  Umbraco.Web.ExamineStartup - Forcing index InternalMemberIndexSet to be unlocked since it was left in a locked state
+ 2019-02-03 17:04:13,375 [P6572/D2/T1] INFO  Umbraco.Web.ExamineStartup - Forcing index InternalIndexSet to be unlocked since it was left in a locked state
+ 2019-02-03 17:04:13,376 [P6572/D2/T1] INFO  Umbraco.Web.ExamineStartup - Forcing index MerchelloOrderIndexSet to be unlocked since it was left in a locked state
+ 2019-02-03 17:04:13,377 [P6572/D2/T1] INFO  Umbraco.Web.ExamineStartup - Forcing index ExternalIndexSet to be unlocked since it was left in a locked state
+ 2019-02-03 17:04:13,378 [P6572/D2/T1] INFO  Umbraco.Web.ExamineStartup - Forcing index MerchelloInvoiceIndexSet to be unlocked since it was left in a locked state
+ 2019-02-03 17:04:13,378 [P6572/D2/T1] INFO  Umbraco.Web.ExamineStartup - Forcing index MerchelloProductIndexSet to be unlocked since it was left in a locked state
+ 2019-02-03 17:04:16,048 [P6572/D2/T12] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - New ApplicationUrl detected: http://localhost:55050/umbraco
+ 2019-02-03 17:04:16,050 [P6572/D2/T12] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:55050/umbraco (UmbracoModule request)
+ 2019-02-03 17:04:28,982 [P6572/D2/T9] INFO  umbraco.content - Load Xml from file...
+ 2019-02-03 17:04:28,987 [P6572/D2/T9] INFO  umbraco.content - Loaded Xml from file.
+ 2019-02-03 17:04:29,448 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2019-02-03 17:04:29,448 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2019-02-03 17:04:29,448 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IParameterEditor
+ 2019-02-03 17:04:29,449 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IParameterEditor (took 0ms)
+ 2019-02-03 17:04:30,640 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2019-02-03 17:04:30,640 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2019-02-03 17:04:30,641 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.Deploy.IServiceConnector
+ 2019-02-03 17:04:30,641 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.Deploy.IServiceConnector (took 0ms)
+ 2019-02-03 17:05:01,133 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2019-02-03 17:05:01,134 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2019-02-03 17:05:01,134 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Core.Persistence.Mappers.MapperForAttribute]Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2019-02-03 17:05:01,134 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Core.Persistence.Mappers.MapperForAttribute]Umbraco.Core.Persistence.Mappers.BaseMapper (took 0ms)
+ 2019-02-03 17:05:01,281 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2019-02-03 17:05:01,281 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2019-02-03 17:05:01,281 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IParameterEditor
+ 2019-02-03 17:05:01,281 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IParameterEditor (took 0ms)
+ 2019-02-03 17:05:01,302 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2019-02-03 17:05:01,302 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2019-02-03 17:05:01,302 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolving umbraco.cms.businesslogic.macro.IMacroEngine
+ 2019-02-03 17:05:01,302 [P6572/D2/T9] INFO  Umbraco.Core.PluginManager - Resolved umbraco.cms.businesslogic.macro.IMacroEngine (took 0ms)
+ 2019-02-03 17:05:29,044 [P6572/D2/T9] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2019-02-02 17:05:29

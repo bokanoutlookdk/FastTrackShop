@@ -1,0 +1,11 @@
+﻿ 2019-01-25 09:53:24,603 [P6880/D2/T39] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2019-01-24 09:53:24
+ 2019-01-25 10:29:57,713 [P6880/D2/T183] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username bokan@outlook.dk from IP address ::1
+ 2019-01-25 10:29:57,714 [P6880/D2/T183] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: bokan@outlook.dk logged in from IP address ::1
+ 2019-01-25 10:49:29,167 [P6880/D2/T69] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: bokan@outlook.dk, IP Address: ::1
+ 2019-01-25 11:02:54,394 [P6880/D2/T71] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username bokan@outlook.dk from IP address ::1
+ 2019-01-25 11:02:54,394 [P6880/D2/T71] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: bokan@outlook.dk logged in from IP address ::1
+ 2019-01-25 11:22:51,955 [P6880/D2/T165] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2019-01-25 11:22:51,963 [P6880/D2/T165] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 7ms)
+ 2019-01-25 11:22:51,964 [P6880/D2/T165] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.HealthCheck.HealthCheck
+ 2019-01-25 11:22:51,969 [P6880/D2/T165] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.HealthCheck.HealthCheck (took 5ms)
+ 2019-01-25 11:40:59,295 [P6880/D2/T66] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: bokan@outlook.dk, IP Address: ::1
