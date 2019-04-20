@@ -1,0 +1,4 @@
+﻿in the process of adding css theme from install 
+changed files in  c:\projekter\FastTrack2\Web\FastTrack2\Styles\css\ 
+
+didnt change html yet !!
