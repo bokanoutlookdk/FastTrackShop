@@ -276,10 +276,7 @@
     <Content Include="config\404handlers.config" />
     <None Include="packages.config" />
     <Content Include="notes.txt" />
-    <Content Include="Styles\css\bootstrap-theme.css" />
-    <Content Include="Styles\css\bootstrap-theme.min.css" />
     <Content Include="Styles\css\bootstrap.css" />
-    <Content Include="Styles\css\bootstrap.min.css" />
     <Content Include="Styles\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Views\Web.config" />
     <Content Include="Views\Partials\Grid\Editors\Textstring.cshtml" />
@@ -292,10 +289,7 @@
     <Content Include="Views\Partials\Grid\Bootstrap3-Fluid.cshtml" />
     <Content Include="Views\Partials\Grid\Bootstrap2.cshtml" />
     <Content Include="Views\Partials\Grid\Bootstrap2-Fluid.cshtml" />
-    <Content Include="Styles\css\bootstrap-theme.css.map" />
-    <Content Include="Styles\css\bootstrap-theme.min.css.map" />
     <Content Include="Styles\css\bootstrap.css.map" />
-    <Content Include="Styles\css\bootstrap.min.css.map" />
     <Content Include="Styles\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Styles\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="Styles\fonts\glyphicons-halflings-regular.woff" />
